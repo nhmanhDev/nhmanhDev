@@ -1,22 +1,26 @@
-# Hi there, I'm Nguyễn Hùng Mạnh (nhmanhDev) 👋
+# Hi there! 👋 I'm Nguyễn Hùng Mạnh
 
-<div align="center">
-  <h3>🤖 AI Developer | Building AI42E — AI for Everyone & Everything 🚀</h3>
-  <p>Passionate about RAG, AI Media (TTS/Video), Computer Vision, and Automated Systems.</p>
+## 🚀 AI Developer | Building AI42E — AI for Everyone & Everything
 
-  [![Website](https://img.shields.io/badge/Blog-nhmanhdev.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://nhmanhdev.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-nhmanh--ai4e1208-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhmanh-ai4e1208/)
-  [![TikTok](https://img.shields.io/badge/TikTok-@nhmanhai42e-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nhmanhai42e)
-  [![Threads](https://img.shields.io/badge/Threads-@nhmanh.ai42e-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@nhmanh.ai42e)
-</div>
+Welcome to my GitHub profile! I'm an AI Developer based in Hanoi, Vietnam, focusing on RAG, LLM applications, AI Media (TTS/Video), Computer Vision, and Automated Systems.
 
 ---
 
-### ⚡ About Me
-- 🔭 Currently building **[AI42E System](https://nhmanhdev.github.io/)** — AI Media, Video Automation, RAG Chatbots & Trading/Fintech.
-- 🛠️ Specializing in **Python**, **TypeScript**, **RAG/LLM Applications**, **Computer Vision (CNN/OpenCV)**, and **Automation Tools**.
-- 📍 Based in **Hanoi, Vietnam**.
-- 📝 Writing tech insights and AI developments on my **[Blog](https://nhmanhdev.github.io/)**.
+### 🎯 About Me
+
+- 🎓 **Education**: Artificial Intelligence student at Thang Long University (2021-2025)
+- 🚀 **Main Focus**: Building **[AI42E System](https://nhmanhdev.github.io/)** — AI for Everyone & Everything (AI Media, Video Automation, Trading & RAG Chatbots)
+- 📍 **Location**: Hanoi, Vietnam
+- 🌐 **Portfolio & Blog**: [nhmanhdev.github.io](https://nhmanhdev.github.io/)
+- 💼 **LinkedIn**: [nhmanh-ai4e1208](https://www.linkedin.com/in/nhmanh-ai4e1208/)
+- 📱 **TikTok**: [@nhmanhai42e](https://www.tiktok.com/@nhmanhai42e) | **Threads**: [@nhmanh.ai42e](https://www.threads.com/@nhmanh.ai42e)
+
+---
+
+### 🎯 Goals
+
+- **Short-term**: Advance RAG architectures, local AI video/media generation (TTS, WanVideo), and scalable desktop/web automation systems.
+- **Long-term**: Expand **AI42E** into an all-in-one AI ecosystem accessible to everyone.
 
 ---
 
@@ -37,7 +41,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **DevOps & Cloud**
+#### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -49,10 +53,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **[ChatbotTLU](https://github.com/nhmanhDev/ChatbotTLU)** | RAG-based AI chatbot for university admission counseling. | Python, RAG, LLM |
+| 🤖 **[ChatbotTLU](https://github.com/nhmanhDev/ChatbotTLU)** | RAG-based AI chatbot for admission counseling at Thang Long University. | Python, RAG, LLM |
 | 📝 **[Automated Exam Grading](https://github.com/nhmanhDev/Automated-Multiple-Choice-Exam-Grading)** | Deep learning system for automatic exam grading using CNN & OpenCV. | Python, CNN, OpenCV |
 | ⚖️ **[ChatbotLAW](https://github.com/nhmanhDev/ChatbotLAW)** | Intelligent legal counseling and document query assistant. | HTML, JS, AI |
-| 🎬 **Video Automation System** | Full-suite desktop application for AI video generation & TTS orchestration. | Node.js, Electron, GSAP, Python |
+| 🎬 **Video Automation System** | Full-suite desktop app for AI video generation & TTS orchestration. | Node.js, Electron, GSAP, Python |
 
 ---
 
