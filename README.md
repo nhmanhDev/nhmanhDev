@@ -62,11 +62,11 @@ Welcome to my GitHub profile! I'm an AI Developer based in Hanoi, Vietnam, focus
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhmanhDev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhmanhDev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhmanhDev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=nhmanhDev&theme=tokyonight" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhmanhDev&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhmanhDev&theme=tokyonight&hide_border=true" />
+</p>
