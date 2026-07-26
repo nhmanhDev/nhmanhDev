@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an AI Developer based in Hanoi, Vietnam, focus
 
 ### 🎯 About Me
 
-- 🎓 **Education**: Artificial Intelligence student at Thang Long University (2021-2025)
+- 🎓 **Education**: Artificial Intelligence student at Thang Long University (2020-2026)
 - 🚀 **Main Focus**: Building **[AI42E System](https://nhmanhdev.github.io/)** — AI for Everyone & Everything (AI Media, Video Automation, Trading & RAG Chatbots)
 - 📍 **Location**: Hanoi, Vietnam
 - 🌐 **Portfolio & Blog**: [nhmanhdev.github.io](https://nhmanhdev.github.io/)
@@ -64,7 +64,11 @@ Welcome to my GitHub profile! I'm an AI Developer based in Hanoi, Vietnam, focus
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhmanhDev&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=nhmanhDev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhmanhDev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhmanhDev&theme=tokyonight" />
 </p>
 
 <p align="center">
